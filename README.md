@@ -1,21 +1,4 @@
-<div align="center">
 
-<!-- Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Arka+Paul;Full-Stack+Engineer+%7C+AI%2FML+Specialist+%7C+Data+Privacy+Architect" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Animated wave -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<br/>
-
-<!-- Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/arkapaul-git?logo=GitHub&style=for-the-badge&color=6C63FF&labelColor=1a1b27)](https://github.com/arkapaul-git)
-[![GitHub Stars](https://img.shields.io/github/stars/arkapaul-git?affiliations=OWNER&logo=github&style=for-the-badge&color=6C63FF&labelColor=1a1b27)](https://github.com/arkapaul-git)
-[![Profile Views](https://komarev.com/ghpvc/?username=arkapaul-git&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/arkapaul-git)
-
-</div>
 
 ---
 
