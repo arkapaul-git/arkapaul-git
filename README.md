@@ -102,9 +102,7 @@ I'm a **Full-Stack Software Engineer** and **AI/ML Specialist** passionate about
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arkapaul-git&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arkapaul-git&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=a9b1d6" width="95%"/>
-</div>
+
 
 ---
 
