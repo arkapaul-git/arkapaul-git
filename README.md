@@ -20,68 +20,6 @@ I'm a **Full-Stack Software Engineer** and **AI/ML Specialist** passionate about
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Faceoff-Technologies/CDD-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faceoff-Technologies&repo=CDD-Platform&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=a9b1d6" />
-</a>
-
-</div>
-
-### CDD Platform — Enterprise Data Privacy and Compliance Suite
-> *AI-powered compliance platform for automated PII detection, data remediation, and regulatory reporting*
-
-| Feature | Technology |
-|---------|-----------|
-| **PII Detection Engine** | Presidio + GLiNER + Custom NLP Recognizers |
-| **LLM Integration** | vLLM (OpenAI-compatible) + Transformer Pipelines |
-| **Document Parsing** | PDF/DOCX/PPTX/Excel + PaddleOCR + DICOM Medical Imaging |
-| **Database Scanning** | MySQL, PostgreSQL, MongoDB, Snowflake, BigQuery, Oracle, Cassandra, Elasticsearch |
-| **Event Streaming** | Apache Kafka + Celery + Redis Broker |
-| **Security** | MFA/2FA, SSO, TOTP, JWT Auth, Fernet Encryption |
-| **Reporting** | Automated DPIA Assessments + WeasyPrint PDF Export |
-| **Cloud and Storage** | MinIO, Google Cloud Storage, Azure Blob, AWS S3, SMB/SFTP |
-| **Infrastructure** | Docker, Kubernetes (k8s), CI/CD Pipelines |
-
----
-
-### Real-Time Person Tracking System (V6)
-> *Advanced multi-camera person tracking with live alerts, case management, and GPU-accelerated inference*
-
-| Component | Details |
-|-----------|---------|
-| **Computer Vision** | YOLOv8 + DeepSORT + Re-ID Models |
-| **Live Streaming** | Multi-camera RTSP feeds with CPU/GPU fallback |
-| **Real-time Alerts** | Live alerts dashboard with case-based querying |
-| **ML Pipeline** | PyTorch inference with CUDA acceleration |
-| **Frontend** | React.js + Interactive Dashboard |
-| **Backend** | Python + FastAPI + WebSocket streams |
-
----
-
-### Magazine Platform
-> *Full-stack magazine website with containerized deployment*
-
-| Layer | Stack |
-|-------|-------|
-| **Frontend** | HTML5, CSS3, JavaScript |
-| **DevOps** | Docker, Shell Scripts, CI/CD |
-| **Architecture** | Responsive Design, SEO Optimized |
-
----
-
-### Database Automation Toolkit
-> *Python-based database management with cross-platform scripting*
-
-| Feature | Technology |
-|---------|-----------|
-| **Core** | Python, SQLAlchemy |
-| **Scripting** | PowerShell, Bash, Batch |
-| **Automation** | Schema migration, data seeding, health checks |
-
----
 
 ## Tech Arsenal
 
@@ -167,26 +105,6 @@ I'm a **Full-Stack Software Engineer** and **AI/ML Specialist** passionate about
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arkapaul-git&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=a9b1d6" width="95%"/>
 </div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arkapaul-git&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
----
-
-## What I'm Working On
-
-```text
-CDD Platform v1.4        ████████████████████░   95%  Enterprise data privacy suite
-Person Tracking V6        ██████████████████░░░   90%  Multi-camera AI surveillance
-Document Intelligence     ████████████████░░░░░   80%  OCR + NLP document parsing
-LLM Orchestration         ███████████████░░░░░░   75%  vLLM + agentic workflows
-Edge AI Deployment        ████████████░░░░░░░░░   60%  On-device ML inference
-```
 
 ---
 
